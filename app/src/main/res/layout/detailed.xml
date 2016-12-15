@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorWhite">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="fill_parent"
+            android:layout_height="150dp"
+            android:layout_margin="5dp"
+            android:background="#fff"
+            android:padding="3dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/tagaytayimg1"
+            />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TD 0900 Ayala, Makati City (ride a Bus with a signage “Tagaytay City”)  ETA 1100 Olivarez Terminal, Tagaytay (ride a Jeepney with a signage “Tagaytay-Mendez” going to Sky Ranch)  1130 Entrance Fee and explore Sky Ranch/Sky Eye Park  1230 Exit Park (ride a Jeepney with a signage “Mendez-Mahogany Avenue”)  1245 Lunch at Bulalo’s Point (a street side Restaurant in Mahogany Avenue)  0200 Mahogany Avenue (ride a Jeepney with a signage “Olivarez Terminal”)  0230 Back to Olivarez Terminal (ride a Jeepney with a signage “Picnic Grove/People’s Park”)  0300 Options: Go to Picnic Grove/Eco-Trail Adventure Park  We skipped the Park (we went there many times before) and directed to People’s Park  0400 Exit at Park (ride a Jeepney with signage “People’s Park”)  0430 Entrance Fee at People’s Park in the Sky  0500 Exit Park (ride a Jeepney going to Olivarez Terminal)  0530 Options: Ride a Bus going to Manila or have dinner at a local diner  (Dinner at Charito by Bag of Beans)  0700 ETD Bus bound to Manila (with a signage “Ortigas-Ayala Ibabaw)  0930 ETA Ayala, Makati City/Manila  My itinerary in here only costs me below P1,500 peso budget "
+            />
+
+    </LinearLayout>
+</ScrollView>

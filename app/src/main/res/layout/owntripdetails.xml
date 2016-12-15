@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp" android:paddingTop="50dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="I&apos;M LEAVING FROM:"
+        android:id="@+id/textView2" />
+
+    <EditText
+        android:id="@+id/txtLeaving"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Location" />
+    <EditText
+        android:id="@+id/dtFrom"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txtLeaving"
+        android:layout_alignParentLeft="true"
+        android:layout_toLeftOf="@+id/dtfromHours"
+        android:hint="Date" />
+
+    <EditText
+        android:id="@+id/dtfromHours"
+        android:layout_width="96dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txtLeaving"
+        android:layout_alignParentRight="true" android:hint="Hours"/>
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="I&apos;M GOING TO:"
+        android:layout_marginTop="94dp"
+        android:id="@+id/textView3"
+        android:paddingTop="50dp"/>
+
+    <EditText
+        android:id="@+id/txtGoing"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/textView3"
+        android:hint="Location" />
+
+
+    <EditText
+        android:id="@+id/dtTo"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txtGoing"
+        android:layout_alignParentLeft="true"
+        android:layout_toLeftOf="@+id/dtfromHours"
+
+        android:hint="Date" />
+
+    <EditText
+        android:id="@+id/dttoHours"
+        android:layout_width="96dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txtGoing"
+        android:layout_alignParentRight="true" android:hint="Hours"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SUGGEST ME"
+        android:layout_below="@id/dttoHours"
+        android:layout_alignParentLeft="true"
+        android:layout_marginTop="94dp"
+        android:layout_toLeftOf="@+id/btnOrganize"
+        android:id="@+id/btnSuggestMe" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="LET ME ORGANIZE"
+        android:layout_below="@id/dttoHours"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="94dp"
+        android:id="@+id/btnOrganize" />
+
+</RelativeLayout>
+
+

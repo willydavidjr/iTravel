@@ -1,0 +1,61 @@
+<LinearLayout
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical">
+
+
+    <ImageView
+        android:id="@+id/imgUpload"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1">
+    </ImageView>
+
+    <ImageView
+        android:id="@+id/imgDownload"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1">
+    </ImageView>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Choose from Gallery"
+        android:id="@+id/btnChoose"
+        android:onClick="onChoose"
+        android:layout_below="@+id/imgUpload"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="188dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Upload"
+        android:id="@+id/btnUpload"
+        android:onClick="onUpload"
+        android:layout_below="@+id/btnChoose"
+        android:layout_centerHorizontal="true" />
+
+    <ProgressBar
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:indeterminate="false"
+        android:id="@+id/progbarUpload"
+        android:layout_below="@+id/btnUpload"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtUploadStatus"
+        android:layout_below="@+id/progbarUpload"
+        android:autoLink="web"
+        android:textSize="20sp"
+        android:linksClickable="true"
+        android:layout_centerHorizontal="true" />
+
+
+</LinearLayout>

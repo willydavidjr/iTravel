@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "302387755249",
+    "firebase_url": "https://itour-f3daf.firebaseio.com",
+    "project_id": "itour-f3daf",
+    "storage_bucket": "itour-f3daf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302387755249:android:bc1e10e0a7fd1e93",
+        "android_client_info": {
+          "package_name": "com.katana.itour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302387755249-004g3qa8m5t6ih2hfgt38au2vcknabs4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpuXZISis1Z-0zC3b3aKSxWtqmj1DjJUA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

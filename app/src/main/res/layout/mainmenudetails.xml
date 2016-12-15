@@ -1,0 +1,46 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/colorWhite"
+    android:paddingTop="50dp"
+    >
+
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="150dp"
+        android:background="@drawable/ilocosimg16"
+        android:text="Tour me Now!"
+        android:id="@+id/btnTourMe"
+        android:textColor="@color/colorWhite"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="150dp"
+        android:background="@drawable/ilocosimg18"
+        android:text="Create my own Trip"
+        android:id="@+id/btnOwnTrip"
+        android:textColor="@color/colorWhite"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="150dp"
+        android:text="Budget Tour Trip"
+        android:id="@+id/btnBudgetTrip"
+        android:textColor="@color/colorWhite"
+        android:background="@drawable/tagaytayimg10"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="150dp"
+        android:text="My Trip Plans"
+        android:textColor="@color/colorWhite"
+        android:id="@+id/btnTripPlans"
+        android:background="@drawable/baguioimg2"
+        android:layout_gravity="center_horizontal" />
+</LinearLayout>
+
