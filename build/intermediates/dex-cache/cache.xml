@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="147c3e6b95aa3d1e83705b056777ef865d272969">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.0.0_9f8687e987842a073b31392ed172b36279596f9a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_65b4df1eb93d2737aba6668f9d375ac1df63efa4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_e28209e48ab60cf9c593e0917881c9474d03fad3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_6bcc0ed4af51f189cefd434c4edb61e404e4bb4a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_d01ed81379f167a8272af2c8c240dfff289e5c76\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="75dbc3537bc912d077b3db2f5ac72d5b43644b2c">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.0_dc72c481249108afac92833ba556daacb18f7524\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0d70f7c486d9d65ceabd0039667ae4d53bf0ae7c">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.0.0_d0567a335dd89befb5e585976f5749fc9fdcd543\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="444a220fadbdf260b3aa47c6e858c5d1e645170f">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.0.0_6d9ba69c70937aaf3a683489455c5dad20b4885a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="73a2c740a76aa4ba46168ed8bcdee1966e48a589">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-10.0.0_94d2dc0bafe1ca2f0001bc0ce1333db029dfe812\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_4440f35333939a1f7d8c5c02a1630675a9e8732b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="58cd8dc3bbf63b37f0e107033257467511130e0f">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-10.0.0_4aac976a15d23ee4eb014fbd788018812ba9cb3f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="932350448ea536c5dfbc45697951f31d34e50f1f">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.0.0_e1a0d2227c17b59bb0ad21a360dea99dff03818c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_56ea7eb5592328d06ebfb96c9dca6d6f250f5f47\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="41e39c7ee84e63ae18df6c6ccb96d196996add4c">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.0_e4432e6e5dd2e28121c1d40cfc2612c5a2d088d6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="813f70b551ce5206ad15dfe6e2f5b2d86e08a723">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-10.0.0_87b9cd9e0b62073d857b154f4c4cd2385965c4ea\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="73fe8ab7f76e41d0cabbc4fa3399557de52efb2d">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.0.0_99df1ed61054c43593baa8fd6a83b116796344aa\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="80338dde5f9d8e20efe2f2a44bc424aefe4eb8f4">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-10.0.0_d01aa4d739d20d1f46deed54bb9ae63be117656b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a18773c279bde7e49e09f621aea613685c108c7f">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.0.0_2377b4ef38b3248d26406ea0a2da3722c0306973\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="76863814ca24fea5a0510373d15d3ccddebc09f1">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-10.0.0_53acbc79514bd1968d7ee94b6c2c2cb3414368af\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4701f9f79c8a00564912b21b0cb0cec3f51a7d23">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-10.0.0_68d2b35bc660849b6519ff1283b2404289289f57\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3a05b3852a6aec21ea0a6ea4d284ee69c04c55c4">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.0_4eedb01dc0f805f9919e0c0c3c0c9822f3ad6d45\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="741f550aea73f64507fc60a799fefd5a2ea2bef5">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-10.0.0_720194982b349c35dc11d7b7fd3165ddf88f610b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5ac49e5d5aea8772c8018ce2888145f04c5fe7ca">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-10.0.0_d03bab81ec1152a4cf7dc5b09bae4d97a83cfdc2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8bb364f67ec2eba2356872b2b4ddfe8aada2d5ac">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.0.0_8924cc75ef37938cd68720424552a766ca75ebe5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a61005619e43f203768ff3f224137def6f029e50">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.0_9a7f7a0306013ac0d8e9e190fb0b69ce5949b1b7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f36cf060b7f0d881ea6449c254ab8a570a3dcdbe">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-10.0.0_86a0305220047630097706c76d520c189ecad960\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_832c8e1260b133a32074903c98ba8cc344872ec0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6b7e0a45e8139272f3fe2a19d4e7b1122c769550">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-10.0.0_05a85d5fbbda88969333d2e37d61ed4271e8e335\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1fabe27d7a7b7ef3fe077c6499cd0a4f08e1c427">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-10.0.0_7483e6fe8fb793baa28fd2b0ebee41466ee07b8c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2b410ae1fda134f470276365f4b7f846269e0d23">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.0_b7fb879f370380a9788c633a5a574440278bddf6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2e61c07206f0568b34939e2dc0e2bc75251648dc">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-10.0.0_6e5643f36ec1be8bc98191d9e980b276f7b78726\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="985be85104f6d0c5c5e51e7b7e60d8883a98ac64">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.0_14dfd1a248ab084acff06e18b608b7ac713401e9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3660967212b89195e628670db181ed86e3307569">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-v4-impl-10.0.0_f0ea8bac98ef8d4d4b7c2256e7c6a346c20efa14\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c7ed3fd9d5a9687980dac6c504abd91ad3dfa238">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.0_1548aa2fd44aad02a83364ec32bfb4cd418a8ec7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8ca4ffc4d90754f1f2438dfc3e94006cfcc6be98">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-10.0.0_27dda86c15b6db286fc6d9d5435ce18c7bcb5647\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_ee5e8fb4020056a231b7936304a18ff9d200c0f9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ddfa80ca49f1334afea1f9aa93148be73f73cd0f">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-10.0.0_4789bbb436b1a1b7b7c67282c59d7eb83216cb90\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="849da156edbc1201f5cd6e237524187442a62af3">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.0.0_80b652bfcb186a843338e029a16823547457b4d1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b7518f2d3fce2ebec6a0bb8d2cd97eebc9f119df">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-10.0.0_58aab9a2193c1b7dd7673ceb1abda33e00b90233\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_c2be29266a117051c8d888af90bd7b36dbcff7fa\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5fd86107cb2d2fa2d099250066cc664cdcfd476f">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-10.0.0_6ec9ba30882c680214c8229fcac450ff955e0579\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8e2fd2b87dc79fc6c8d70fda1247ac6f4a878a28">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-10.0.0_d3bac84f1708142470c0d5cc0ef91d3c54878dce\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b1c926efda90fbf653889fea922eacc527de8486">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-10.0.0_abe516e817beafd004b334752f128379663b8c2f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ca730ac2d72056445bf68998cec6b6b2cf4d179e">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-10.0.0_48b72fa9a36fb87a6c6c2705fbe99f46d8fdbd08\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fb0229499e600b485a276d4e31161a3ae31c144c">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.0.0_5ac7e4ae39f55d4c33c7db31361ee94e1973fa2c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_d58576cacc8c55c88a89371f6f9afd3946087050\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_eeb24915ce81894d08ab7c95f01866539934c7a2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ce6e6e59212db0893fc36e5b579cf319a84aade8">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.0_1646ef65088e6ada42901a2fcb096c7d5befddb7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="cf60a8cd2f896314e40b2f1a9788e91e228c3671">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.0.0_45317660721854cd1d2be8246156249a702a3888\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="79b12bc7d77450dbcd9f7400066d8296fec8283d">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a2d0b9e7a2c15c9196e252c63785b8a71d4d9112\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="543835521cf4f867223d9f2a4b19ce32f95b0573">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-10.0.0_41c32cdec4f0664a8d28b94d184811f69081a381\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_3b5ad24efc4442ad648e2af6ba823243c02fca03\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="22031b047b12904b888549ba36c0c30d83b1aea1">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-appindexing-10.0.0_59343b35445617c3413ded47bf646c10654e62bf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="777627dcaf0eaacd4212220e8f2d0c63def91774">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-10.0.0_885f2d3e799e482c50ad370f0490d3b4c0e22a54\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ae809d521d9f7da5337a82edd64eea23a76e788d">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.0.0_71107514e5afd4c21d631b5a68712893af4dbe22\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6cc495f5634b8aaae30a37317ba687830da545cf">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-10.0.0_15dde138327ab70ebafe29bb558da42ab9a7d827\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0e2bf5e85132c8bfed05a87b71352918815e0205">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-10.0.0_da9b33e6418122274191221ffb71f5c40154d80c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2376d0ec8dbe85d3446cad64905c0395fbe220e">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-10.0.0_b75fc645b7202ea453d0a6cb486ad1eb4269b76d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f46052a912895eeb9f707889c584b5be9c4cbe2e">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_be0f7b8e3b6b9401c36f4711b903e9465975f19c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3347c3e7056fabc88bdbd8fdae65ddf2b674d977">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.0_be214d02dab5fed1dab7e6badc260f02dcdf9484\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3861e0294c61bf4bf968a1da1607497345dca283">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-10.0.0_10eec423e15640b40643ea9c64cd9a06a457c02d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a383a583c346ce8ea5767d77f4fe58e1d8e5f221">
+        <dex dex="C:\Users\mctamayo\AndroidStudioProjects\ITour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-10.0.0_be2167008d732ed99a189cc5e01ec459ed0280d3\classes.dex" />
+    </item>
+
+</items>
